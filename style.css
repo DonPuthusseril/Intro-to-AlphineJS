@@ -1,0 +1,12 @@
+.darkmode {
+    background-color: greenyellow(0, 0, 0);
+    color: gold(34, 156, 108);
+    width: 100px;
+}
+.background {
+    background-color: mediumorchid;
+}
+
+.left {
+    text-align: left;
+}
